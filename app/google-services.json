@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49523956554",
+    "project_id": "vimi-a2d0d",
+    "storage_bucket": "vimi-a2d0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49523956554:android:8e650c7e0423a32831ffb3",
+        "android_client_info": {
+          "package_name": "com.anujjain.vimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49523956554-1k9k48945vsko7nj7hafavm38h7rpm16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzwJ6q0oNMsI8DYEu-tTXIsb52yHJLbvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49523956554-1k9k48945vsko7nj7hafavm38h7rpm16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

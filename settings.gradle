@@ -1,0 +1,32 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        mavenLocal()
+        jcenter(){
+
+        }
+
+    }
+}
+
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        mavenLocal()
+        jcenter(){
+            maven {
+                url "https://github.com/jitsi/jitsi-maven-repository/raw/master/releases"
+            }
+
+        }
+
+
+    }
+}
+rootProject.name = "Vimi"
+include ':app'
